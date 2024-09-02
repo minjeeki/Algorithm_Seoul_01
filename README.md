@@ -282,6 +282,8 @@
 
 - SSAFY 수업 자료
 
+![자료구조 개괄 이미지](https://private-user-images.githubusercontent.com/148981647/363451643-f09746ab-3319-4a54-8411-3d94eb3525e1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUyNDU3MDMsIm5iZiI6MTcyNTI0NTQwMywicGF0aCI6Ii8xNDg5ODE2NDcvMzYzNDUxNjQzLWYwOTc0NmFiLTMzMTktNGE1NC04NDExLTNkOTRlYjM1MjVlMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwMlQwMjUwMDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOWIzNmFiYjVhZDU3N2I3ZTNlNjFkOWQ2ODE5ZmQzMWUwM2UwNjQ5NmM4ZjVhYmI3MDE5N2U5MTk4ZTZjMzY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.IsCxhy9lcz6XxFIElU7cz_AldBYLEe_wwKG7xswOYPg)
+
 - [Nossi Dev 개발자 취업의 모든 것 > `CS 기술 면접`과 `코딩테스트`](https://www.nossi.dev/)
 
 - [Backend-Interview-Question > `자료구조/알고리즘`](https://github.com/ksundong/backend-interview-question?tab=readme-ov-file#%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
