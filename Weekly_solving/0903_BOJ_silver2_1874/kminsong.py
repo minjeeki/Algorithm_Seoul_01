@@ -29,7 +29,7 @@ while start <= n-1: # start가 마지막이 될때까지
     # start2+=1
     # start2+=1
 if result == True:
-    for i in fin_lst:
+    for i in fin_lst:   # fin_lst를 돌면서 print
         print(i)
 else:
     print('NO')
