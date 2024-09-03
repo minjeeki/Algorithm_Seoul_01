@@ -85,6 +85,8 @@
 
         - 자율 문제 풀이 진행 중 함께 풀고 이야기 나누기 좋을 것 같은 문제에 대해서 추천을 받아서 진행하거나 학습 참고 자료에 있는 문제 리스트 중 하나를 선택해 진행합니다.
 
+        - 알고리즘 학습을 위해 주차별로 주제별 문제풀이를 진행합니다. 백준 문제집에서 주제별 문제들을 추려서 개념 공부와 함께 풀 수 있는 범위까지 풀이를 진행합니다.
+
     </details>
 
     <br>
@@ -112,7 +114,7 @@
     | 주차 | 학습 내용 | 실습 | 진행 |
     |:------:|:----------:|:----------:|:---:|
     | 8월 5주차 | branch, PullRequest, push & pull | branch 생성 및 PR 올리기 | O |
-    | 9월 1주차 | commit, PR convention | convention에 맞춰 작업 기록 남기기 | X |
+    | 9월 1주차 | commit, PR convention | convention에 맞춰 작업 기록 남기기 | O |
     | 9월 1주차 | convention template 지정 | template 지정 방법 이해 | X |
     | 9월 2주차 | git flow, merge, conflict 이해 | conflict 종류 이해 및 만들어보기 | X |
     | 9월 2주차 | github Issue, github Wiki 이해 | wiki 디렉토리 내용 github wiki로 이동 | X |
@@ -262,7 +264,8 @@
 | 주차 | 문제 | 알고리즘 | 푼 사람 |
 |:------:|:------|:----------:|:---------:|
 | 8월 5주차 | [[BOJ] 2839 설탕 배달](https://www.acmicpc.net/problem/2839) | 수학, DP, 그리디 | `김희수` `김민지` `이아영` `송경민` |
-| 9월 1주차 | [[BOJ] 스택 수열](https://www.acmicpc.net/problem/1874) | 자료구조, 스택 | |
+| 9월 1주차 | [[BOJ] 스택 수열](https://www.acmicpc.net/problem/1874) | 자료구조, 스택 | `김희수` `김민지` `이아영` `송경민` |
+| 9월 1주차 | [[BOJ] 퇴사](https://www.acmicpc.net/problem/14501) | 재귀, 브루트포스, DP |  |
 
 </details>
 
