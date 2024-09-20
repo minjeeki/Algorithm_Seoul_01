@@ -11,3 +11,5 @@ else:
         dp[i] = dp[i - 1] + dp[i - 2] # dp[i]값 구하는 점화식 생성
     answer = dp[n] % 10007  # 최종 정답
     print(answer)
+
+
