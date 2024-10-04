@@ -10,7 +10,7 @@ max_height = 0           # 가장 높은 높이를 0으로 초기화
 start = min(map(min, block))
 end = max(map(max, block))
 
-for height in range(start, end+1):   # 가능한 모든 높이(0~256)에 대해 반복
+for height in range(start, end+1):   # 블록의 최저~최고 높이에 대해 반복
     remove = add = 0        # 제거하고 추가해야 할 블록 수 초기화
 
     for i in range(n):      # 모든 땅의 면적 탐색
