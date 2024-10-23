@@ -54,7 +54,7 @@
             <a href="">문제풀이 DB 노션</a>
         </td>
         <td>
-            <a href="https://github.com/kminsong"><img alt="정도영-프로필" style="width: 100px;" src="https://avatars.githubusercontent.com/u/154123905?v=4"/></a>
+            <a href="https://github.com/sorrowaddict"><img alt="정도영-프로필" style="width: 100px;" src="https://avatars.githubusercontent.com/u/154123905?v=4"/></a>
             <br>
             <a href="">문제풀이 DB 노션</a>
         </td>
