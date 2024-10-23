@@ -30,6 +30,7 @@
         <td>김민지</td>
         <td>이아영</td>
         <td>송경민</td>
+        <td>정도영</td>
     </tr>
     <tr class="member-image">
         <td>
@@ -49,6 +50,11 @@
         </td>
         <td>
             <a href="https://github.com/kminsong"><img alt="송경민-프로필" style="width: 100px;" src="https://avatars.githubusercontent.com/u/175171052?v=4"/></a>
+            <br>
+            <a href="">문제풀이 DB 노션</a>
+        </td>
+        <td>
+            <a href="https://github.com/kminsong"><img alt="정도영-프로필" style="width: 100px;" src="https://avatars.githubusercontent.com/u/154123905?v=4"/></a>
             <br>
             <a href="">문제풀이 DB 노션</a>
         </td>
