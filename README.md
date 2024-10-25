@@ -36,27 +36,27 @@
         <td>
             <a href="https://github.com/hseegr"><img alt="김희수-프로필" style="width: 100px;" src="https://avatars.githubusercontent.com/u/175369230?v=4"/></a>
             <br>
-            <a href="">문제풀이 DB 노션</a>
+            <!-- <a href="">문제풀이 DB 노션</a> -->
         </td>
         <td>
             <a href="https://github.com/minjeeki"><img alt="김민지-프로필" style="width: 100px;" src="https://avatars.githubusercontent.com/u/148981647?v=4"/></a>
             <br>
-            <a href="">문제풀이 DB 노션</a>
+            <!-- <a href="">문제풀이 DB 노션</a> -->
         </td>
         <td>
             <a href="https://github.com/aaaange"><img alt="이아영-프로필" style="width: 100px;" src="https://avatars.githubusercontent.com/u/128114236?v=4"/></a>
             <br>
-            <a href="">문제풀이 DB 노션</a>
+            <!-- <a href="">문제풀이 DB 노션</a> -->
         </td>
         <td>
             <a href="https://github.com/kminsong"><img alt="송경민-프로필" style="width: 100px;" src="https://avatars.githubusercontent.com/u/175171052?v=4"/></a>
             <br>
-            <a href="">문제풀이 DB 노션</a>
+            <!-- <a href="">문제풀이 DB 노션</a> -->
         </td>
         <td>
             <a href="https://github.com/sorrowaddict"><img alt="정도영-프로필" style="width: 100px;" src="https://avatars.githubusercontent.com/u/154123905?v=4"/></a>
             <br>
-            <a href="">문제풀이 DB 노션</a>
+            <!-- <a href="">문제풀이 DB 노션</a> -->
         </td>
     </tr>
 </table>
